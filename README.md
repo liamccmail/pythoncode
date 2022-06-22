@@ -1,3 +1,5 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/liamccmail/pythoncode) 
+
 # Python Code
 This is where all my Python code I have written from Personal Projects to University Projects will be stored.
 
